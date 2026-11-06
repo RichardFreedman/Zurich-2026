@@ -1,0 +1,65 @@
+,pitch_class,count,scaled,composer,title
+0,C,962.0,0.1614,Guillaume Le Heurteur,Congratulamini mihi
+1,C,882.0,0.1633,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+2,C,877.0,0.1693,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+3,C,625.0,0.168,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+4,C,797.5,0.1826,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+5,C,1459.0,0.1636,Francisco Guerrero,Missa Congratulamini mihi: Credo
+6,C#,9.0,0.0024,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+7,C#,4.0,0.0007,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+8,C#,4.0,0.0004,Francisco Guerrero,Missa Congratulamini mihi: Credo
+9,C#,6.0,0.0012,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+10,D,936.5,0.105,Francisco Guerrero,Missa Congratulamini mihi: Credo
+11,D,507.0,0.1363,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+12,D,650.0,0.1204,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+13,D,601.0,0.116,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+14,D,478.5,0.1095,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+15,D,431.5,0.0724,Guillaume Le Heurteur,Congratulamini mihi
+16,Eb,2.0,0.0005,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+17,E,472.5,0.1082,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+18,E,835.0,0.0936,Francisco Guerrero,Missa Congratulamini mihi: Credo
+19,E,470.0,0.087,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+20,E,362.5,0.0608,Guillaume Le Heurteur,Congratulamini mihi
+21,E,329.0,0.0884,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+22,E,525.5,0.1014,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+23,F,240.5,0.0647,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+24,F,1014.0,0.1701,Guillaume Le Heurteur,Congratulamini mihi
+25,F,309.5,0.0573,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+26,F,375.5,0.0725,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+27,F,315.5,0.0722,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+28,F,588.0,0.0659,Francisco Guerrero,Missa Congratulamini mihi: Credo
+29,F#,48.0,0.0054,Francisco Guerrero,Missa Congratulamini mihi: Credo
+30,F#,32.0,0.0062,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+31,F#,16.0,0.0037,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+32,F#,39.5,0.0073,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+33,F#,32.0,0.0086,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+34,G,758.5,0.2039,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+35,G,594.0,0.0997,Guillaume Le Heurteur,Congratulamini mihi
+36,G,932.5,0.1727,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+37,G,723.0,0.1655,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+38,G,1474.0,0.1652,Francisco Guerrero,Missa Congratulamini mihi: Credo
+39,G,836.0,0.1614,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+40,G#,4.0,0.0009,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+41,A,715.5,0.1201,Guillaume Le Heurteur,Congratulamini mihi
+42,A,490.0,0.0946,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+43,A,416.5,0.0771,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+44,A,721.0,0.0808,Francisco Guerrero,Missa Congratulamini mihi: Credo
+45,A,359.5,0.0823,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+46,A,323.0,0.0868,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+47,Bb,13.0,0.0035,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+48,Bb,4.0,0.0009,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+49,Bb,8.0,0.0015,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+50,Bb,357.5,0.06,Guillaume Le Heurteur,Congratulamini mihi
+51,Bb,2.0,0.0004,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+52,B,233.5,0.0535,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
+53,B,21.0,0.0035,Guillaume Le Heurteur,Congratulamini mihi
+54,B,560.5,0.0628,Francisco Guerrero,Missa Congratulamini mihi: Credo
+55,B,311.0,0.06,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+56,B,215.0,0.0578,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+57,B,340.0,0.063,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+58,Rest,1354.0,0.2507,Francisco Guerrero,Missa Congratulamini mihi: Gloria
+59,Rest,2294.0,0.2572,Francisco Guerrero,Missa Congratulamini mihi: Credo
+60,Rest,666.0,0.179,Francisco Guerrero,Missa Congratulamini mihi: Kyrie
+61,Rest,1502.0,0.252,Guillaume Le Heurteur,Congratulamini mihi
+62,Rest,1118.0,0.2158,Francisco Guerrero,Missa Congratulamini mihi: Sanctus
+63,Rest,964.0,0.2207,Francisco Guerrero,Missa Congratulamini mihi: Agnus dei
